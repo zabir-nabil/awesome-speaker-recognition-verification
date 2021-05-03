@@ -12,9 +12,11 @@ A curated list of awesome speaker recognition/verification papers, projects, dat
 
 * **[Tutorials](#tutorials)**
 
-* **[Papers with Code](#paperswc)**
+* **[Papers with Code](#papers-with-code)**
 
 * **[Papers](#papers)**
+
+* **[Github Repositories](#github-repositories)**
 
 * **[Websites](#websites)**  
 
@@ -50,6 +52,12 @@ A curated list of awesome speaker recognition/verification papers, projects, dat
 
 1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
+### Papers
+
+
+### Github Repositories
+
+1. https://github.com/WeidiXie/VGG-Speaker-Recognition (python 2 + tensorflow 1.x)
 
 ### Tutorials
 
@@ -65,7 +73,7 @@ A curated list of awesome speaker recognition/verification papers, projects, dat
 
 ### Datasets
 
-1.  [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
+1.  [VoxCeleb mirror](https://github.com/cyrta/voxceleb) 
 
 ### Conferences
 
