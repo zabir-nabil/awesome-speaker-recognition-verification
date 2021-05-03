@@ -1,7 +1,6 @@
-# awesome-speaker-recognition-verification
-A curated list of awesome speaker recognition/verification papers, projects, datasets, and competition. 
-
 # Awesome Speaker Recognition & Verification [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome speaker recognition/verification papers, projects, datasets, and competition.
 
 ## Table of Contents
 
