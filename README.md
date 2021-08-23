@@ -59,6 +59,7 @@
 ### Papers
 
 1. [SPEECH AND SPEAKER RECOGNITION FROM RAW WAVEFORM WITH SINCNET](https://arxiv.org/pdf/1812.05920v1.pdf) (CNN, speech + speaker)
+2. [Deep Neural Network Embeddings for Text-Independent Speaker Verification](https://danielpovey.com/files/2017_interspeech_embeddings.pdf) (x-vector)
 
 ### Github Repositories
 
