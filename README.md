@@ -60,6 +60,7 @@
 
 1. [SPEECH AND SPEAKER RECOGNITION FROM RAW WAVEFORM WITH SINCNET](https://arxiv.org/pdf/1812.05920v1.pdf) (CNN, speech + speaker)
 2. [Deep Neural Network Embeddings for Text-Independent Speaker Verification](https://danielpovey.com/files/2017_interspeech_embeddings.pdf) (x-vector)
+3. [How to train your speaker embeddings extractor](https://www.sri.com/wp-content/uploads/pdf/how_to_train_your_speaker_embeddings_extractor.submitted.pdf) (VAD + speaker embeddings)
 
 ### Github Repositories
 
