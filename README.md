@@ -102,6 +102,7 @@
 
 1.  [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi) - Extraction of x vector
 2.  [PLDA/LDA from enrollment using Kaldi](https://github.com/RicherMans/PLDA) - PLDA scoring
+3.  [Neural PLDA](https://github.com/iiscleap/NeuralPlda) - Neural PLDA, kaldi
 
 ### Miscellaneous
 
